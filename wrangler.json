@@ -3,7 +3,7 @@
   // ada (URL kpma.posisimasyarakatadat.workers.dev tetap sama), bukan
   // bikin worker baru.
   "name": "kpma",
-  "main": "worker.js",
+  "main": "worker/index.ts",
   "compatibility_date": "2026-11-03",
 
   "d1_databases": [
